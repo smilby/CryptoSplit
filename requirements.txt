@@ -1,0 +1,4 @@
+web3==6.0.0  # For Ethereum wallet interactions
+ccxt==3.0.64 # For exchange API integration
+pandas==2.0.3 # For report generation
+pytest==7.4.2 # For testing
